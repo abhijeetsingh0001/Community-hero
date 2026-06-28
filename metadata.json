@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "An AI-powered community issue reporting, tracking, and gamified validation platform that empowers citizens to collaboratively solve local infrastructure issues.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
